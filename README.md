@@ -1,12 +1,14 @@
-# TRABALHO DE PI:  Título do Trabalho
+# TRABALHO DE PI:  In Nature
 Trabalho desenvolvido durante a disciplina de Banco de Dados do Integrado
 
 # Sumário
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
-primeiro_componente_do_grupo:email_primeiro_componente@dominio.com<br>
-segundo_componente_do_grupo:email_segundo_componente@dominio.com<br>
+Dayanni Maria :"dadayamaria1@hotmail.com" <dadayamaria1@hotmail.com><br>
+Elisa Andrade:elisaaj.es@gmail.com<br>
+João Vitor:joao.scheidegger@gmail.com<br>
+Nycolly Mendes:nycollydonascimentomendes@gmail.com<br>
 ...
 
 ### 2.MINIMUNDO<br>
