@@ -156,9 +156,8 @@ https://fenixculatra.github.io/PlantasMedicinais/inNature/index.html
 
 ### 9	MODELO LÓGICO<br>
         a) inclusão do esquema lógico do banco de dados
-        b) verificação de correspondencia com o modelo conceitual 
-        (não serão aceitos modelos que não estejam em conformidade)
-        ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/48acaf24-e64d-466f-b892-69f8ec49058f)
+        ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/5cb9468c-ae82-41aa-879c-1005435e84e2)
+
 
 
 ### 10	MODELO FÍSICO<br>
