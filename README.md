@@ -158,7 +158,8 @@ https://fenixculatra.github.io/PlantasMedicinais/inNature/index.html
 
 ### 9	MODELO LÓGICO<br>
         a) inclusão do esquema lógico do banco de dados
-     ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/5cb9468c-ae82-41aa-879c-1005435e84e2)<br>
+     ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/3cd9f51b-769b-445d-bcba-a6dbaae997c7)
+
 
 
 
