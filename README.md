@@ -127,8 +127,8 @@ https://fenixculatra.github.io/PlantasMedicinais/inNature/index.html
 
 ### 8	RASTREABILIDADE DOS ARTEFATOS<br>
         "Como usuário gostaria de pesquisar sobre as plantas disponíveis no site."
-        >tela inicial e tela defiltro
-        ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/8da6008e-8656-46e3-85f3-f002cab00c83)
+     
+     ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/8da6008e-8656-46e3-85f3-f002cab00c83)/>
         >Tabela PLANTA
         ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/7dfd2782-f1ad-4b7a-aeda-7b624b1c755c)
 
@@ -137,6 +137,8 @@ https://fenixculatra.github.io/PlantasMedicinais/inNature/index.html
         ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/40641e6b-6969-4673-804d-5d3a74a74720)
         >Tabela FAVORITA
         ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/ec6dad83-1cc0-43ae-af52-830dac4b466e)
+      
+
 
         
 
@@ -156,7 +158,7 @@ https://fenixculatra.github.io/PlantasMedicinais/inNature/index.html
 
 ### 9	MODELO LÓGICO<br>
         a) inclusão do esquema lógico do banco de dados
-        ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/5cb9468c-ae82-41aa-879c-1005435e84e2)
+     ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/5cb9468c-ae82-41aa-879c-1005435e84e2)<br>
 
 
 
@@ -510,9 +512,12 @@ inner join efeitos_adversos on fk_efeitos_adversos_codigo_efeito = efeitos_adver
  inner join possui_preparo on fk_planta_cod_planta  = planta.cod_planta
  inner join preparo on fk_preparo_cod_preparo = preparo.cod_preparo
   group by  planta.nome """,conn)
+>
+
 
  
  #### 13.2	Desenvolvimento de gráficos/relatórios pertinentes, juntamente com demais <br>
+
 
 
    ## Relatório 1
