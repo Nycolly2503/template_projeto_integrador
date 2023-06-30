@@ -46,10 +46,11 @@ a) Link do formulário desenvolvido
 b) Link para Relatório/Apresentação de resultados obtidos
 
 ### 4.Personas e Histórias de usuário<br>
-<img src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" Personas src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" width="500" height="500" /> <br>
+<img ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/8a4ada54-25b8-4d69-94fe-04e430e89450)/> <br>
 a) inclusão dos Persons desenvolvidos pelo grupo<br>
 <br>
-<img src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" UserStory src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" width="500" height="300" /> <br>
+<img ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/d5bae6f1-8649-48cd-8400-e12a30fd4510)
+/> <br>
 b) inclusão das Histórias de usuário desenvolvidas pelo grupo
 <br>
 
@@ -57,25 +58,22 @@ b) inclusão das Histórias de usuário desenvolvidas pelo grupo
 ### 5. PROTÓTIPOS DO SISTEMA<br>
 Neste ponto a codificação não e necessária, somente as ideias de telas devem ser desenvolvidas. O princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas e/ou descartadas <br>
 
-Sugestão: https://balsamiq.com/products/mockups/<br>
-
-![Alt text](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/balsamiq.png?raw=true "Title")
-![Arquivo PDF do Protótipo Balsamiq feito para Empresa Devcom](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/EmpresaDevcom.pdf?raw=true "Empresa Devcom")
 
 #### 5.1 PROTÓTIPO DO SISTEMA MOBILE
+https://quant-ux.com/#/apps/641afb1405d72326569497d4/design/s13223_79043.html
 
 #### 5.2 PROTÓTIPO DO SISTEMA WEB
+https://fenixculatra.github.io/PlantasMedicinais/inNature/index.html
 
 #### 5.3 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM OS SISTEMA WEB/MOBILE PROPOSTOS?
     a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
     b) Crie uma lista com os 5 principais relatórios que poderão ser obtidos por meio do sistema proposto!
     
-> A Empresa DevCom precisa inicialmente dos seguintes relatórios:
-* Relatório que informe quais são os gerentes de cada departamento incluindo as seguintes informações: número do departamento,  nome do departamento, e nome do gerente.
-* Relatório de empregados por projeto incluindo as seguintes informações: número do projeto, nome do projeto, rg do empregado, nome do empregado e quantidade de horas de trabalho do empregado alocadas ao projeto.
-* Relatório de empregados com dependentes incluindo as seguintes informações: rg do empregado, nome do empregado, nome do dependente, tipo de relação, data de nascimento do dependente e sexo do dependente.
-* Relatório com a quantidade de empregados por cada departamento incluindo as seguintes informações: nome do departamento, supervisor e quantidade de empregados alocados no departamento.
-* Relatório de supervisores e supervisionados incluindo as seguintes informações: nome do supervisor e nome do supervisionado.
+> O In Nature possui os  seguintes relatórios:
+* Mostre quantos usuários são colaboradora, usuários e administrador
+* Mostre quantas plantas tem o msm tipo de contraindicacao
+* Mostre quantas plantas tem o msm tipo de indicaçã
+* Mostre quantas plantas tem o msm tipo de efeitos adversos
  
  ### 6.MODELO CONCEITUAL<br>
     A) Utilizar a Notação adequada (Preferencialmente utilizar o BR Modelo 3)
