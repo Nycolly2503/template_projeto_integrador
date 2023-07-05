@@ -128,15 +128,15 @@ https://fenixculatra.github.io/PlantasMedicinais/inNature/index.html
 ### 8	RASTREABILIDADE DOS ARTEFATOS<br>
         "Como usuário gostaria de pesquisar sobre as plantas disponíveis no site."
      
-     ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/8da6008e-8656-46e3-85f3-f002cab00c83)/>
+   ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/8da6008e-8656-46e3-85f3-f002cab00c83)/>
         >Tabela PLANTA
-        ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/7dfd2782-f1ad-4b7a-aeda-7b624b1c755c)
+     ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/7dfd2782-f1ad-4b7a-aeda-7b624b1c755c)
 
 
         >Como usuário gostaria de favoritar as plantas que mais uso para ter acesso rápido dessas plantas
-        ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/40641e6b-6969-4673-804d-5d3a74a74720)
+   ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/40641e6b-6969-4673-804d-5d3a74a74720)
         >Tabela FAVORITA
-        ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/ec6dad83-1cc0-43ae-af52-830dac4b466e)
+   ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/ec6dad83-1cc0-43ae-af52-830dac4b466e)
       
 
 
@@ -144,21 +144,21 @@ https://fenixculatra.github.io/PlantasMedicinais/inNature/index.html
 
         >omo usuário gostaria de ter acesso a todas as plantas para cicatrização
         tela depesquisa
-        ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/1683622a-25cb-45d0-aa0a-71225be5dcbd)
+   ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/1683622a-25cb-45d0-aa0a-71225be5dcbd)
         >Tabela INDICACAO 
-        ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/5dba1876-3555-4723-9d9b-e60d57b61c8b)
+   ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/5dba1876-3555-4723-9d9b-e60d57b61c8b)
 
         >Como administrador, gostaria que usuários selecionados pudessem fazer partede aquipe.
         Tabela TIPO_USUARIO
-        ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/8af8dd8d-bbef-4c8f-8101-24f38b9b8004)
+   ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/8af8dd8d-bbef-4c8f-8101-24f38b9b8004)
 
         >Como usuário gostaria de contribuir inserindo informações que conheço e não estão no sistema 
-        ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/de708a71-6451-456a-856d-446f044d0e66)
+   ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/de708a71-6451-456a-856d-446f044d0e66)
 
 
 ### 9	MODELO LÓGICO<br>
         a) inclusão do esquema lógico do banco de dados
-     ![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/3cd9f51b-769b-445d-bcba-a6dbaae997c7)
+![image](https://github.com/Nycolly2503/template_projeto_integrador/assets/84751064/3cd9f51b-769b-445d-bcba-a6dbaae997c7)
 
 
 
