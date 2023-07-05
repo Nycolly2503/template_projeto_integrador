@@ -550,9 +550,10 @@ inner join efeitos_adversos on fk_efeitos_adversos_codigo_efeito = efeitos_adver
  ### 14 Slides e Apresentação em vídeo. <br>
      OBS: Observe as instruções relacionadas a cada uma das atividades abaixo.<br>
  #### 14.1 Slides; <br>
+ https://docs.google.com/presentation/d/1xT9hVJdESkGyDGfEE4A-znJO8asSmSBugDWzADf39eg/edit?usp=sharing
  
  #### 14.2 Apresentação em vídeo <br>
- https://www.canva.com/design/DAFnVbBeJTI/dfhaHu6VdB4qpC5kQAQIJg/edit?utm_content=DAFnVbBeJTI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAFnVbBeJTI/dfhaHu6VdB4qpC5kQAQIJg/edit?utm_content=DAFnVbBeJTI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
     
 ##### About Formatting
